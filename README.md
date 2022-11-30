@@ -1,6 +1,6 @@
-👋 Hi, I’m Adnan
+### 👋 Hi, I’m Adnan
 
-Here's some of my public projects, feel free to contribute :)!
+### Here's some of my public projects, feel free to contribute :)!
 
 __Reddit Swipe__  
 Configurable Tiktok-like scrolling for reddit.  
