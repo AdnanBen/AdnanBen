@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Adnan
+## 👋 Hi, I’m Adnan
 
 ### Here's some of my public projects, feel free to contribute :)!
 
